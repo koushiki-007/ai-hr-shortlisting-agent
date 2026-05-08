@@ -1,0 +1,29 @@
+AI/ML Engineer Internship
+
+We are looking for an AI/ML Engineer Intern with strong knowledge of Python, Machine Learning, Deep Learning, NLP, and Generative AI.
+
+Required Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- LangChain
+- LLMs
+- Streamlit
+- Vector Databases
+- Git/GitHub
+
+Preferred:
+- Experience with RAG systems
+- Experience with AI agents
+- Good communication skills
+- Strong problem-solving ability
+
+Responsibilities:
+- Build AI-powered applications
+- Develop intelligent automation systems
+- Work on resume analysis and semantic search
+- Create scalable ML pipelines
+
+Education:
+Bachelor’s degree in Computer Science or related field.

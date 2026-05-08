@@ -1,0 +1,18 @@
+Koushiki Das
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP, LangChain, Streamlit, GitHub, TensorFlow
+
+Education:
+B.Tech in Computer Science Engineering with specialization in AI & ML
+
+Projects:
+- Breast Cancer Detection using AI
+- RAG-based AI Assistant
+- Resume Screening System
+
+Experience:
+Worked on AI research papers and machine learning projects.
+
+Communication:
+Good verbal and written communication skills.
