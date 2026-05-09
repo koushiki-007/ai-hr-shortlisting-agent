@@ -12,7 +12,7 @@ genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 model = genai.GenerativeModel("models/gemini-2.5-flash")
 
 
-def score_resume(jd_text, resume_text):
+def candidate_evaluation(jd_text, candidate_resumetext):
 
     prompt = f"""
     You are an AI HR Recruiter.
@@ -23,7 +23,7 @@ def score_resume(jd_text, resume_text):
     {jd_text}
 
     RESUME:
-    {resume_text}
+    {candidate_resumetext}
 
     Evaluate the candidate on:
 

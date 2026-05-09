@@ -1,7 +1,7 @@
 import re
 
 
-def sanitize_input(text):
+def input_clean_data(text):
 
     # Remove suspicious prompt injection phrases
     blocked_patterns = [
@@ -20,7 +20,7 @@ def sanitize_input(text):
     return text
 
 
-def mask_pii(text):
+def no_sensitive_data(text):
 
     # Mask emails
     text = re.sub(
